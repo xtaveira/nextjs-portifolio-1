@@ -17,11 +17,11 @@ export default function Home() {
             <Link href="/my-skills" className="relative rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
               Learn more
             </Link>
-            <Link href="/my-projects" className="relative rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
+            <Link href="/my-projects" className="relative rounded-[20px] group bg-transparent border border-white px-5 py-3 text-lg text-white max-w-[200px] ">
               <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hover:opaticy-20" />
               My projects
             </Link>
-            <Link href="/contact-me" className="relative rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
+            <Link href="/contact-me" className="relative rounded-[20px] group bg-transparent border border-white px-5 py-3 text-lg text-white max-w-[200px] ">
               <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hover:opaticy-20" />
               Contact me
             </Link>
@@ -34,10 +34,10 @@ export default function Home() {
         <Link href="/my-skills" className="rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
           Learn more
         </Link>
-        <Link href="/my-projects" className="rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
+        <Link href="/my-projects" className="rounded-[20px] group bg-transparent border border-white px-5 py-3 text-lg text-white max-w-[200px] ">
           My projects
         </Link>
-        <Link href="/contact-me" className="rounded-[20px] group bg-blue-500 px-5 py-3 text-lg text-white max-w-[200px] ">
+        <Link href="/contact-me" className="rounded-[20px] group bg-transparent border border-white px-5 py-3 text-lg text-white max-w-[200px] ">
 
           Contact me
         </Link>
