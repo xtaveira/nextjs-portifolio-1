@@ -80,24 +80,28 @@ export const Socials = [
 ];
 export const Projects = [
   {
-    title: "Modern Nextjs Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/NextWebsite.png",
+    title: "Nike Website",
+    text: "Landing Page simples e moderna com o foco de demonstrar produtos Nike",
+    src: "/NikeWebsite.png",
+    link: "https://tailwind-nike-website.vercel.app"
   },
   {
-    title: "Space Themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/SpaceWebsite.png",
+    title: "Promptopia",
+    text: "Aplicação com Login por conta GOOGLE e CRUD no banco de dados MongoDB atlas com propósito de criar prompt para IA",
+    src: "/Promptopia.png",
+    link: "https://project-promptopia-topaz.vercel.app"
   },
   {
-    title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/WebPortfolio.png",
+    title: "Catalogos com Scroll Infinito",
+    text: "Aplicação demonstrando a tecnologia NEXT 14 Serverside Animation de scroll infinito.",
+    src: "/ScrollInfinito.png",
+    link:"https://next14-serverside-animation.vercel.app"
   },
   {
-    title: "Matrix themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/Matrix.png",
+    title: "Cálculo de Consumo",
+    text: "Aplicação para cálculo de consumo de veículos com ligação ao banco de dados MongoDB",
+    src: "/Consumo.jpeg",
+    link: "https://github.com/xtaveira/consumo-veiculos-nextjs"
   },
 ];
 
