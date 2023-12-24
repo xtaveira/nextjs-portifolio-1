@@ -14,7 +14,7 @@ const Page = () => {
     //   className="w-screen h-screen flex items-center justify-center bg-cover">
     //   <div className="grid grid-cols-2 gap-5 max-w-[90%] max-h-[90%]">
 
-    <div style={{ backgroundImage: "url(/mountains.jpg" }}
+    <div style={{ backgroundImage: "url(/mountains.jpg)" }}
       className="w-screen flex items-center justify-center bg-cover
      h-screen">
 
